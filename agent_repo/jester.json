@@ -1,0 +1,1 @@
+[{'type': 'function', 'function': {'description': 'a function that print hello world', 'name': 'hello_world', 'parameters': {'type': 'object', 'properties': {}, 'required': []}}}]
